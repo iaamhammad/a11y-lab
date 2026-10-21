@@ -4,9 +4,11 @@ A single-file, framework-free teaching tool for **WCAG 2.1 AA**. Practise keyboa
 
 ![Animated tour of A11y Lab: keyboard event log, ARIA tabs and dialog, form validation, contrast checker, colour-blindness and zoom tests, before/after remediation workshop, WCAG checklist and audit report, and the dark and high-contrast themes](docs/demo.gif)
 
+**[Try it live](https://iaamhammad.github.io/a11y-lab/)**
+
 ## Getting started
 
-Download or clone the repo and open `index.html` in any modern browser. There is no build step, no dependencies and no server needed.
+Use the [live version](https://iaamhammad.github.io/a11y-lab/), or download or clone the repo and open `index.html` in any modern browser. There is no build step, no dependencies and no server needed.
 
 ```bash
 git clone https://github.com/iaamhammad/a11y-lab.git
@@ -28,3 +30,7 @@ The app also has **light, dark and high-contrast themes**, plus a skip link.
 The Module 3 "Before" sample is **intentionally inaccessible**. Automated tools (axe, Lighthouse, WAVE) will flag it; that is the course material, not a bug.
 
 The simulations (colour blindness, zoom, lens) are approximations. Also test with real assistive technology: NVDA, JAWS, VoiceOver, TalkBack, the OS magnifier and browser zoom.
+
+## License
+
+[MIT](LICENSE)

@@ -1,0 +1,17 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor and IDE settings
+.vscode/
+.idea/
+*.swp
+
+# Claude Code local settings
+.claude/
+
+# Logs and temp files
+*.log
+*.tmp
+node_modules/
